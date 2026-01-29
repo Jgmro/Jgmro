@@ -24,6 +24,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://medium.com/@mor0_joao" target="_blank">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/0*zPzAcHbkOUmfNnuB.jpeg" width="35" height="30" alt="medium logo"  />
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-logo-icon.png" width="35" height="30" alt="medium logo"  />
   </a>
 </div>
