@@ -24,6 +24,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://medium.com/@mor0_joao" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuk2tCzpyvNn5vHN2473CaWNRBvADzZPbERA&s" width="45" height="30" alt="medium logo"  />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrQFOAfu9D2UJoJpksIgvZP9YV-LXn8TKImA&s" width="45" height="30" alt="medium logo"  />
   </a>
 </div>
