@@ -7,7 +7,7 @@
   
 ### Connect with me:
 <a href="https://www.linkedin.com/in/joao-gabriel-de-oliveira-08498628b/" target="_blank">
-  <img src="/icons/linkedin.svg" alt="LinkedIn" width="40">
+  <img src="/icons/linkedin.svg" alt="LinkedIn" height="20" width="20">
 </a>
 
 
