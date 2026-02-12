@@ -6,7 +6,7 @@
   
   
 ### Connect with me:
-[<img align="left" alt="Website" src=".linkedin" />](https://www.linkedin.com/in/joao-gabriel-de-oliveira-08498628b/)
+[<img align="left" alt="Website" src="/linkedin" />](https://www.linkedin.com/in/joao-gabriel-de-oliveira-08498628b/)
 
 
 
