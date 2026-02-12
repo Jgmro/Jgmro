@@ -2,8 +2,11 @@
 
 - Ask me about **Programming and Economy**
 - Get to know about my medium posts [here](https://medium.com/@mor0_joao)
-- Get to know about my projects [here]()
+- Get to know about my projects [here]
   
+  
+### Connect with me:
+
 
 
 
@@ -31,7 +34,4 @@
   <a href="https://www.linkedin.com/in/joao-gabriel-de-oliveira-08498628b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://medium.com/@mor0_joao" target="_blank">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-logo-icon.png" width="35" height="30" alt="medium logo"  />
-  </a>
-</div>
+ 
