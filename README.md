@@ -18,8 +18,8 @@
 ### Languages:
 
 <img src="/icons/html.svg" alt="html" height="30" width="30" />
-<img src="/icons/python.svg" alt="python" height="30" width="30" />
-<img src="/icons/mysql.svg" alt="mysql" height="30" width="30" />
+<img src="/icons/python.svg" alt="python" height="30" width="30" >
+<img src="/icons/mysql.svg" alt="mysql" height="30" width="30" >
 
   <img align = "center" alt="C++" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   
