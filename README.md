@@ -1,7 +1,9 @@
-# Jgmro
-
 ### Hi, I'm João, a Computer Engineer !
 
+- Ask me about **Programming and Economy**
+- Get to know about my medium posts [here](https://medium.com/@mor0_joao)
+- Get to know about my projects [here]()
+  
 
 
 
@@ -13,10 +15,10 @@
   <img align = "center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" >
   </div>
 
-  <p align="left">
-   My name is João Gabriel and I'm a Computer Engineer.<br>
-  </p>
-  
+
+
+
+
   <p align="left">
     Skills: <strong> HTML, Python, Mysql, C++ ...</strong>
   </p>
