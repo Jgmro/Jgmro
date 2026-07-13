@@ -5,7 +5,7 @@
 - Get to know about my projects [here]
   
   
-### Connect with me:
+### Connect with me: 
 
 <!-- icons do site tabler -->
 <a href="https://www.linkedin.com/in/joao-gabriel-de-oliveira-08498628b/" target="_blank">
