@@ -1,6 +1,6 @@
 ### Hi, I'm João, a Computer Engineer !
 
-- Ask me about **Programming and Economy**
+- Ask me about **Programming and History**
 - Get to know about my medium posts [here](https://medium.com/@mor0_joao)
 - Get to know about my projects [here]
   
