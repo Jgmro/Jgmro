@@ -11,7 +11,7 @@
 
 ### Open Source
 
-I contribute to the community by fixing what I find along the way — including a merged PR in [GoAnime](https://github.com/alvarorichard/GoAnime) (1.1k ⭐) and accepted answers in Brazilian dev communities.
+I contribute to the community by fixing what I find along the way — including a merged PR in [GoAnime](https://github.com/alvarorichard/GoAnime) (1.1k ⭐) and accepted answers in projects like [kitty](https://github.com/kovidgoyal/kitty/discussions/9251) (33k ⭐) and Brazilian dev communities.
 
 
 ### Connect with me:
