@@ -1,15 +1,15 @@
 ### Hi, I'm João, a Computer Engineer!
 
-- 💬 Ask me about **Programming and History**
-- ✍️ Check out my Medium posts [here](https://medium.com/@mor0_joao)
+- Ask me about **Programming and History**
+- Check out my Medium posts [here](https://medium.com/@mor0_joao)
 
-### 🔨 Currently building
+### Currently building
 
 **[Caçador de Discussões](https://github.com/Jgmro/cacador-de-discussoes)** — a Python tool that uses the GitHub GraphQL API to find unanswered GitHub Discussions, with a focus on questions in Portuguese. I built it because I wanted to contribute to open source by answering questions — and discovered that *finding* answerable questions was the hard part.
 
 
 
-### 🤝 Open Source
+### Open Source
 
 I contribute to the community by fixing what I find along the way — including a merged PR in [GoAnime](https://github.com/alvarorichard/GoAnime) (1.1k ⭐) and accepted answers in Brazilian dev communities.
 
