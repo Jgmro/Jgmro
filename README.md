@@ -17,5 +17,4 @@ I contribute to the community by fixing what I find along the way — including 
 
 ### Languages:
 
-[![html](https://github.com/Jgmro/Jgmro/raw/main/icons/html.svg)](#) [![python](https://github.com/Jgmro/Jgmro/raw/main/icons/python.svg)](#) [![mysql](https://github.com/Jgmro/Jgmro/raw/main/icons/mysql.svg)](#)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+[![My Skills](https://skillicons.dev/icons?i=html,python,mysql,cpp)](https://skillicons.dev)
