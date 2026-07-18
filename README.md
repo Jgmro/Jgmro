@@ -17,4 +17,4 @@ I contribute to the community by fixing what I find along the way — including 
 
 ### Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=html,python,mysql,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons&theme=light?i=html,python,mysql,cpp)](https://skillicons.dev)
