@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 289" width="310" height="289" role="img" aria-label="Cubo 3D em ASCII girando">
-<rect x="0" y="0" width="310" height="289" rx="10" fill="#0A0F0B"/>
+<rect x="0" y="0" width="310" height="250" rx="8" fill="#0A0F0B"/>
 <style>
 text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
         font-size: 12px; white-space: pre; }
