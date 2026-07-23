@@ -1,4 +1,4 @@
-<img align="right" width="290" src="cubo-ascii.svg" alt="cubo ASCII girando">
+<img align="right" width="290" src="/icons/cubo-ascii.svg" alt="cubo ASCII girando">
 
 ### Hi, I'm João, a Computer Engineer!
 
