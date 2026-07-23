@@ -1,4 +1,4 @@
-<img align="right" width="290" src="/icons/cubo-ascii.svg" alt="cubo ASCII girando">
+<img align="down" width="240" src="/icons/cubo-ascii.svg" alt="cubo ASCII girando">
 
 ### Hi, I'm João, a Computer Engineer!
 
@@ -21,4 +21,4 @@ I contribute to the community by fixing what I find along the way — including 
 
 ### Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=html,python,mysql,cpp&theme=dark)](https://skillicons.dev)### Hi, I'm João, a Computer Engineer!
+[![My Skills](https://skillicons.dev/icons?i=html,python,mysql,cpp&theme=dark)](https://skillicons.dev)
