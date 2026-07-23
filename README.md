@@ -22,6 +22,6 @@ I contribute to the community by fixing what I find along the way — including 
 [![My Skills](https://skillicons.dev/icons?i=html,python,mysql,cpp&theme=dark)](https://skillicons.dev) 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="cubo-dark.svg">
-  <img align="right" width="290" src="cubo-light.svg" alt="cubo ASCII girando">
+  <source media="(prefers-color-scheme: dark)" srcset="/icons/cubo-dark.svg">
+  <img align="right" width="290" src="/icons/cubo-light.svg" alt="cubo ASCII girando">
 </picture>
