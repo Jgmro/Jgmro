@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/icons/cubo-dark.svg">
-  <img align="right" width="290" src="/icons/cubo-light.svg" alt="cubo ASCII girando">
+  <img align="right" width="200" src="/icons/cubo-light.svg" alt="cubo ASCII girando">
 </picture>
 
 ### Hi, I'm João, a Computer Engineer!
