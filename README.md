@@ -19,9 +19,12 @@ I contribute to the community by fixing what I find along the way — including 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joao-gabriel-de-oliveira-08498628b/)
 ### Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=html,python,mysql,cpp&theme=dark)](https://skillicons.dev) 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/icons/cubo-dark.svg">
   <img align="right" width="290" src="/icons/cubo-light.svg" alt="cubo ASCII girando">
 </picture>
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,python,mysql,cpp&theme=dark)](https://skillicons.dev) 
