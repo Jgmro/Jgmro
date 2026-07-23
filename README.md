@@ -4,9 +4,7 @@
 - Check out my Medium posts [here](https://medium.com/@mor0_joao)
 
 ### Currently building
-
-**[Caçador de Discussões](https://github.com/Jgmro/cacador-de-discussoes)** — a Python tool that uses the GitHub GraphQL API to find unanswered GitHub Discussions, with a focus on questions in Portuguese. I built it because I wanted to contribute to open source by answering questions and discovered that *finding* answerable questions was the hard part.
-
+...
 
 
 ### Open Source
