@@ -17,7 +17,7 @@ I contribute to the community by fixing what I find along the way — including 
 ### Connect with me:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joao-gabriel-de-oliveira-08498628b/)
-                                                                                                                                    <img align="right" width="240" src="/icons/cubo-ascii.svg" alt="cubo ASCII girando">
+<img align="right" width="240" src="/icons/cubo-ascii.svg" alt="cubo ASCII girando">
 ### Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=html,python,mysql,cpp&theme=dark)](https://skillicons.dev)  
