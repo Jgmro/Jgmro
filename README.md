@@ -1,6 +1,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/icons/dodecaedro-claro.svg">
-  <img align="right" width="250" src="/icons/cubo-light.svg" alt="cubo ASCII girando">
 </picture>
 
 ### Hi, I'm João, a Computer Engineer!
