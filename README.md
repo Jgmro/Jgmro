@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/icons/cubo-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="/icons/dodecaedro.svg">
   <img align="right" width="250" src="/icons/cubo-light.svg" alt="cubo ASCII girando">
 </picture>
 
