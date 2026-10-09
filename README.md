@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dodecaedro-escuro.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="dodecaedro.svg">
   <img src="dodecaedro-claro.svg" alt="Dodecaedro 3D em ASCII girando">
 </picture>
 
