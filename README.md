@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dodecaedro.svg">
-  <img src="dodecaedro-claro.svg" alt="Dodecaedro 3D em ASCII girando">
+  <source media="(prefers-color-scheme: dark)" srcset="icons/dodecaedro.svg">
+  <img src="icons/dodecaedro-claro.svg" alt="Dodecaedro 3D em ASCII girando">
 </picture>
 
 ### Hi, I'm João, a Computer Engineer!
