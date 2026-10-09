@@ -1,5 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/icons/dodecaedro-claro.svg">
+    <img align="right" width="250" src="/icons/dodecaedro-claro.svg" alt="dodecaedro ASCII girando">
+
 </picture>
 
 ### Hi, I'm João, a Computer Engineer!
